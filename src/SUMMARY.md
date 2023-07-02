@@ -1,4 +1,4 @@
 # Summary
 
 - [Kernel](kernel/README.md)
-  - [Data Structures](kernel/data-structures.md)
+  - [Data Types](kernel/data-types.md)
