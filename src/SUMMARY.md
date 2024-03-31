@@ -7,3 +7,6 @@
   - [Variables](kernel/variables.md)
     - [proc0](kernel/variables/proc0.md)
   - [Data Types](kernel/data-types.md)
+    - [proc](kernel/data-types/proc.md)
+    - [self_auth_info](kernel/data-types/self-auth-info.md)
+    - [thread](kernel/data-types/thread.md)
